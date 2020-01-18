@@ -1,4 +1,4 @@
-# BudgetJSDOM
+# Budgety
 
 A simple budget application that calculates you monthly budget.
 
