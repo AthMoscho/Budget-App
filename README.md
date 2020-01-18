@@ -8,7 +8,6 @@ Precentages at the top of the app refers to the total precentage that your expen
 
 Precentages at the right of the app (by the expenses values) referes to the single precentage of that specific expense that affect your budget.
 
-Source Code Above.
 
 <p align="center">
   <img width="auto" height="auto" src="https://i.ibb.co/qMQnDx4/bugety.png">
