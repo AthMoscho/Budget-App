@@ -2,7 +2,9 @@
 
 A simple budget application that calculates you monthly budget.
 
-Just put in your Incomes and Expenses (Choose that by selecting '+' or '-' left of the value input field), next put on your description and your money value.
+# How to use:
+
+Put in your Incomes and Expenses (Choose that by selecting '+' or '-' left of the value input field), next put on your description and your money value.
 
 Precentages at the top of the app refers to the total precentage that your expenses affect over your budget.
 
