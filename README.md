@@ -11,5 +11,5 @@ Precentages at the right of the app (by the expenses values) referes to the sing
 Source Code Above.
 
 <p align="center">
-  <img width="auto" height="auto" src="https://i.ibb.co/jVnk3DT/bugety.png">
+  <img width="auto" height="auto" src="https://i.ibb.co/qMQnDx4/bugety.png">
 </p>
